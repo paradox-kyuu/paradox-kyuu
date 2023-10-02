@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @paradox-kyuu. Real name: Paul Q.
-- 👀 I’m interested in CyberSecurity and Software Engineering.
+- 👀 I’m interested in CyberSecurity, Software Engineering, and Machine Learning.
 - 🌱 I’m studying BS Computer Science; I am learning to code in Python, PHP, SQL, NoSQL, JAVA, C, C++, C#, and JS.
 - 📫 How to reach me - prdxshdw@gmail.com
 
