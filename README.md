@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @paradox-kyuu. Real name: Paul Q.
+- 👋 Hi, I’m Paul Emmanuelle Quimpo
 - 👀 I’m interested in CyberSecurity, Software Engineering, and Machine Learning.
-- 🌱 I’m studying BS Computer Science: Python, PHP, PGSQL, SQL, NoSQL, JAVA, C, C++, C#, JS, NodeJS, Laravel, Django, JavaFX, ReactNative.
+- 🌱 I’m studying BS Computer Science: HTML, TailwindCSS, PHP, Laravel, PGSQL, Express, React, Nodejs, Firebase, MongoDB
 - 📫 How to reach me - paulemmanuellequimpo@gmail.com
 
 
